@@ -10,7 +10,7 @@ LAIN 面向技术栈多样寻求高效运维方案的高速发展中的组织、
 - 提高了整体资源使用率，优化冗余资源池。
 
 ### 了解更多
-![logo](http://laincloud.com/images/lain-logo-02.svg)[LAIN White Paper](https://laincloud.gitbooks.io/white-paper/content/)
+![logo](https://laincloud.com/images/lain-logo-02.svg)[LAIN White Paper](https://laincloud.gitbooks.io/white-paper/content/)
 
 > 也可以直接下载 [PDF](https://www.gitbook.com/download/pdf/book/laincloud/white-paper),
 > [Mobi](https://www.gitbook.com/download/mobi/book/laincloud/white-paper)
