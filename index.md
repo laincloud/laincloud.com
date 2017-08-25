@@ -9,6 +9,14 @@ LAIN 面向技术栈多样寻求高效运维方案的高速发展中的组织、
 - 规范了应用开发、测试、上线工作流，辅以 SCM 支持；
 - 提高了整体资源使用率，优化冗余资源池。
 
+### LAIN视频
+
+#### 集群管理入门
+<embed height="415" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="//static.hdslb.com/miniloader.swf" flashvars="aid=4671059&page=1" pluginspage="//www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash">
+
+#### LAIN CLI使用
+<embed height="415" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="//static.hdslb.com/miniloader.swf" flashvars="aid=4673273&page=1" pluginspage="//www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash">
+
 ### 了解更多
 ![logo](https://laincloud.com/images/lain-logo-02.svg)[LAIN White Paper](https://laincloud.gitbooks.io/white-paper/content/)
 
