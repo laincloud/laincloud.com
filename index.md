@@ -12,10 +12,14 @@ LAIN 面向技术栈多样寻求高效运维方案的高速发展中的组织、
 ### LAIN视频
 
 #### 集群管理入门
-<embed height="415" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="//static.hdslb.com/miniloader.swf" flashvars="aid=4671059&page=1" pluginspage="//www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash">
+<div align="center">
+<iframe src="https://www.bilibili.com/html/html5player.html?cid=7578012&aid=4671059" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 
 #### LAIN CLI使用
-<embed height="415" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="//static.hdslb.com/miniloader.swf" flashvars="aid=4673273&page=1" pluginspage="//www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash">
+<div align="center">
+<iframe src="https://www.bilibili.com/html/html5player.html?cid=7581619&aid=4673273" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 
 ### 了解更多
 ![logo](https://laincloud.com/images/lain-logo-02.svg)[LAIN White Paper](https://laincloud.gitbooks.io/white-paper/content/)
