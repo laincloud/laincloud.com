@@ -44,11 +44,21 @@ sudo bash -c 'echo "192.168.77.201  console.lain.local" >> /etc/hosts'
 http://console.lain.local
 ````
 
-您也可以直接登陆我们的线上demo集群console:[http://demo.laincloud.com](http://demo.laincloud.com)，其中：
-- 用户名：demo，密码：laindemo。[hello-world](https://github.com/laincloud/hello-world)是一个简单的LAIN应用，提供HTTP服务返回Container ID。[访问hello-world](http://hello-world.demo.laincloud.com/)
-- 用户名：demo1，密码：laindemo。[todomvc](https://github.com/laincloud/todomvc)是一个用于演示的LAIN应用，展示了LAIN的用法和特色。[访问todomvc](http://todomvc.demo.laincloud.com)
+您也可以直接使用以下账户登陆我们的 demo 集群控制台: [http://demo.laincloud.com](http://demo.laincloud.com)：
+- 用户名：demo，密码：laindemo
+- 用户名：demo1，密码：laindemo
 
-完整的文档在[https://docs.laincloud.com](https://docs.laincloud.com)，其中：
+可以分别看到 hello-world 和 todomvc 2 个示例 LAIN 应用。在控制台里，您可以进行扩容缩容、调整 CPU 和调整内存等操作。
+hello-world 和 todomvc 均提供 HTTP 服务，您可以通过 http://${appname}.${LAIN-domain} 访问，比如：
+- [http://hello-world.demo.laincloud.com](http://hello-world.demo.laincloud.com)
+- [http://todomvc.demo.laincloud.com](http://todomvc.demo.laincloud.com)
+
+> - hello-world 扩容成多个示例后，LAIN 会将请求分发到不同的实例上，您可以通过刷新页面观察效果；
+>   其源代码在 [https://github.com/laincloud/hello-world](https://github.com/laincloud/hello-world)
+> - todomvc 的任务列表存储在服务端的数据库里，所有用户看到的是同一份数据；
+>   其源代码在 [https://github.com/laincloud/todomvc](https://github.com/laincloud/todomvc)
+
+完整的文档在 [https://docs.laincloud.com](https://docs.laincloud.com)，其中：
 - [Install](https://docs.laincloud.com/install/cluster.html) 展示了
 如何从头开始构建 Lain 集群
 - [LAIN App Demo](https://docs.laincloud.com/tutorial/first-lain-app.html) 展示了如何在 Lain 集群上部署应用
