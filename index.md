@@ -1,3 +1,7 @@
+<video width="100%" height="100%" controls>
+  <source src="http://lain.oss-cn-beijing.aliyuncs.com/LAIN%20Demo%20in%205%20minutes.mp4" type="video/mp4">
+</video>
+
 ### 来自宜信的诚意作品
 [LAIN](https://github.com/laincloud/lain) 是来自[宜信大数据创新中心](http://cbdic.creditease.cn)的基于 Docker 技术的容器私有云平台（PaaS）。
 
