@@ -85,3 +85,5 @@ hello-world 和 todomvc 均提供 HTTP 服务，您可以通过 http://${appname
 > 也可以直接下载 [PDF](https://www.gitbook.com/download/pdf/book/laincloud/white-paper),
 > [Mobi](https://www.gitbook.com/download/mobi/book/laincloud/white-paper)
 > 或 [ePub](https://www.gitbook.com/download/epub/book/laincloud/white-paper)
+
+<p align="center"><a href="http://www.miitbeian.gov.cn/">京ICP备14035344号</a></p>
