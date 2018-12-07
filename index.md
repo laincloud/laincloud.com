@@ -67,18 +67,6 @@ hello-world 和 todomvc 均提供 HTTP 服务，您可以通过 http://${appname
 如何从头开始构建 Lain 集群
 - [LAIN App Demo](https://docs.laincloud.com/tutorial/first-lain-app.html) 展示了如何在 Lain 集群上部署应用
 
-### LAIN视频
-
-#### 集群管理入门
-<div align="center" class="videoWrapper">
-<iframe width="100%" height="100%" src="https://www.bilibili.com/html/html5player.html?cid=7578012&aid=4671059" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</div>
-
-#### LAIN CLI使用
-<div align="center" class="videoWrapper">
-<iframe width="100%" height="100%" src="https://www.bilibili.com/html/html5player.html?cid=7581619&aid=4673273" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</div>
-
 ### 了解更多
 ![logo](https://laincloud.com/images/lain-logo-02.svg)[LAIN White Paper](https://docs.laincloud.com)
 
